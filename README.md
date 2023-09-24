@@ -1,4 +1,3 @@
-**1cetsw/1cetsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 👋 Hi, I’m Cristopher , I'm Junior Full Stack Developer
 - 🔭 I’m currently working on my own project CarBook, an application for managing your cars, application that will be available at www.carbook.com.pl.
