@@ -17,4 +17,4 @@
      WebStorm / Visual Studio Code
      pgAdmin
 
-- 📫 How to reach me: You can reach me via email at [1cetsw@gmail.com] and linkedin.com/in/christopherking777/
+- 📫 How to reach me: You can reach me via email at [1cetsw@gmail.com] and linkedin.com/in/krolkrzysztof7
